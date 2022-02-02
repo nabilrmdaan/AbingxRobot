@@ -1,7 +1,7 @@
 FROM debian:11
 FROM python:3.10.1-slim-buster
 
-WORKDIR /EmikoRobot/
+WORKDIR /AbingxRobot/
 
 RUN apt-get update && apt-get upgrade -y
 RUN apt-get -y install git
