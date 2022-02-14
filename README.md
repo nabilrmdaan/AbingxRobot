@@ -29,6 +29,10 @@ This Bot is Created by KennedyProject, If your kanging this without fork at leas
 
 ## Credit 
 
+• [Abing](https://github.com/nabilrmdaan)
+
+• [Kenzhu](https://github.com/Kenzhu02)
+
 • [Sena](https://github.com/kennedy-ex)
 
 • [Arya](https://github.com/Aryazakaria01)
