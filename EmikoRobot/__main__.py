@@ -441,8 +441,8 @@ def emiko_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                    InlineKeyboardButton(text="Support", url="t.me/ruangdiskusikami"),
-                    InlineKeyboardButton(text="Updates", url="https://t.me/abingsupport"),
+                    InlineKeyboardButton(text="Support", url="t.me/abingmusicsupport"),
+                    InlineKeyboardButton(text="Updates", url="https://t.me/AbingProject"),
                  ],
                  [
                     InlineKeyboardButton(text="Go Back", callback_data="emiko_"),
