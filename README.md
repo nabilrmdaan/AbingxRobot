@@ -22,8 +22,8 @@ This Bot is Created by AbingProject, If your kanging this without fork at least 
 
 ### Support
 <p>
-<a href="https://t.me/sayaabing"> <img src="https://img.shields.io/badge/Sena-Ex-blue?&logo=telegram" alt="Sena on Telegram" /> </a><br>
-<a href="https://t.me/Kenzusupport"> <img src="https://img.shields.io/badge/Support-Chat-blue?&logo=telegram" alt="Support Chat" /> </a><br>
+<a href="https://t.me/sayaabing"> <img src="https://img.shields.io/badge/Abing-Ex-blue?&logo=telegram" alt="Abing on Telegram" /> </a><br>
+<a href="https://t.me/abingmusicsupport"> <img src="https://img.shields.io/badge/Support-Chat-blue?&logo=telegram" alt="Support Chat" /> </a><br>
 <a href="https://t.me/AbingProject"> <img src="https://img.shields.io/badge/Update-Channel-blue?&logo=telegram" alt="Update Channel" /> </a><br>
 </p>
 
