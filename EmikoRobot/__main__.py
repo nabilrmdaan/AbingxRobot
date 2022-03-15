@@ -229,7 +229,7 @@ def start(update: Update, context: CallbackContext):
             )
     else:
         update.effective_message.reply_text(
-            f"ᴀᴋᴜ {dispatcher.bot.first_name}. ᴛᴇʟᴀʜ ʙᴇʀʜᴀsɪʟ ᴅɪ ᴀᴋᴛɪғᴋᴀɴ",
+            f"ʜᴀɪ ᴀᴋᴜ {dispatcher.bot.first_name}. ᴛᴇʟᴀʜ ʙᴇʀʜᴀsɪʟ ᴅɪ ᴀᴋᴛɪғᴋᴀɴ",
             parse_mode=ParseMode.HTML
        )
 
